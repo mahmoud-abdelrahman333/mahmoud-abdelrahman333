@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud Abdelrahman 👋
+# Hi, I'm Mahmoud Abdelrahman 
 
 ### Aspiring Data Engineer
 
@@ -58,14 +58,6 @@ I enjoy learning by building real-world projects and exploring how data moves fr
 - Apache Spark & Distributed Processing
 - Data Warehousing
 - Data Pipeline Orchestration
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-abdelrahman333&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdelrahman333&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
