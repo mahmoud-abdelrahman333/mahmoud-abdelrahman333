@@ -29,7 +29,7 @@ I enjoy learning by building real-world projects and exploring how data moves fr
 
 **Tools & Systems**
 - Linux
-- Docker & Docker Compose
+- Docker
 - Git & GitHub
 
 ---
@@ -49,15 +49,6 @@ I enjoy learning by building real-world projects and exploring how data moves fr
 - Stored processed results in PostgreSQL and exposed them through FastAPI.
 
 [View Repository](https://github.com/mahmoud-abdelrahman333/HM-recommendation-data-pipeline)
-
----
-
-### 📚 Currently Learning
-- Advanced Python
-- Data Engineering Fundamentals
-- Apache Spark & Distributed Processing
-- Data Warehousing
-- Data Pipeline Orchestration
 
 ---
 
