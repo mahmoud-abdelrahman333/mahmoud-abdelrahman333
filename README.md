@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud Abdelrahman 
+# Hi, I'm Mahmoud Abdelrahman
 
 ### Aspiring Data Engineer
 
@@ -35,6 +35,14 @@ I enjoy learning by building real-world projects and exploring how data moves fr
 ---
 
 ### 🚀 Featured Projects
+
+**MovieLens Data Platform**
+- Built an end-to-end data platform using Amazon S3, Snowflake, and dbt.
+- Developed SQL analytics and an interactive Streamlit dashboard.
+- Implemented a personalized movie recommendation system using PySpark MLlib ALS.
+- Generated over 1.38 million recommendations for 138K+ users.
+
+[View Repository](https://github.com/mahmoud-abdelrahman333/movielens-data-platform)
 
 **NYC Taxi Data Pipeline**
 - Building a local end-to-end data engineering pipeline.
