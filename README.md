@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud Abdelrahman
 
-### Aspiring Data Engineer
+### Data Engineer
 
 I'm a Computer and Data Science student at Alexandria University, passionate about building data pipelines, working with large-scale data, and understanding distributed systems.
 
